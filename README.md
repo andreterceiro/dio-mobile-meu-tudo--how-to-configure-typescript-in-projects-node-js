@@ -25,3 +25,8 @@ npx tsc src/index.ts
 ```
 
 Will be created the file index.js in the directory 'src'.
+
+
+# Teacher suggestion to do the transpilation and execution process with only one command
+
+![reacher suggestion](images/teacher-suggestion.png)
