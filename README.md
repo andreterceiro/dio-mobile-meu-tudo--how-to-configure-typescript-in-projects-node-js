@@ -55,3 +55,8 @@ npx tsc --init
 - **outDir**: ./dist
 - **strict**: true (enable stric type);
 - **esModuleInterop**: true (compatibility to ES modules);
+
+
+# Details on mouse over (VSCode)
+
+![details on mouse over](images/details-on-mouse-over.png)
