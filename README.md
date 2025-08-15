@@ -30,3 +30,5 @@ Will be created the file index.js in the directory 'src'.
 # Teacher suggestion to do the transpilation and execution process with only one command
 
 ![reacher suggestion](images/teacher-suggestion.png)
+
+OBS: From the previous image the teacher executed the command `npm run start:dev`.
