@@ -10,3 +10,5 @@ npm install -D typescript
 # Type inference
 
 TypeScript can know the type of a variable by inference.
+
+![inference](images/type-inference.png)
