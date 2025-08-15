@@ -53,3 +53,5 @@ npx tsc --init
 - **target**: ES6; 
 - **module**: CommonJS (to compatibility);
 - **outDir**: ./dist
+- **strict**: true (enable stric type);
+- **esModuleInterop**: true (compatibility to ES modules);
