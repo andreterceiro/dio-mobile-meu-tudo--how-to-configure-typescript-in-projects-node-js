@@ -51,3 +51,4 @@ npx tsc --init
 (under the node "compilerOptions"):
 
 - **target**: ES6; 
+- **module**: CommonJS (to compatibility);
