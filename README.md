@@ -39,3 +39,8 @@ OBS: From the previous image the teacher executed the command `npm run start:dev
 ```
 npx tsc --init
 ```
+
+
+# Basic (clean) tsconfig
+
+![clean tscoonfig](images/clean-tsconfig.png)
