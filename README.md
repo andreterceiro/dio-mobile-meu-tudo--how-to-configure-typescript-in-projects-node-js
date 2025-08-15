@@ -32,3 +32,10 @@ Will be created the file index.js in the directory 'src'.
 ![reacher suggestion](images/teacher-suggestion.png)
 
 OBS: From the previous image the teacher executed the command `npm run start:dev`.
+
+
+# Generating tsconfig
+
+```
+npx tsc --init
+```
