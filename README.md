@@ -44,3 +44,10 @@ npx tsc --init
 # Basic (clean) tsconfig
 
 ![clean tscoonfig](images/clean-tsconfig.png)
+
+
+# Suggested tsconfig options
+
+(under the node "compilerOptions"):
+
+- **target**: ES6; 
