@@ -23,3 +23,5 @@ You can execute a transpilation process through tsc, as example:
 ```
 npx tsc src/index.ts
 ```
+
+Will be created the file index.js in the directory 'src'.
