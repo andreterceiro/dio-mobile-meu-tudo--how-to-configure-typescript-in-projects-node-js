@@ -60,3 +60,8 @@ npx tsc --init
 # Details on mouse over (VSCode)
 
 ![details on mouse over](images/details-on-mouse-over.png)
+
+
+# Transpiling all files of the project
+
+Teacher gave an example: when running `npx tsc` without specifying a path, the file tscofing was readed and using the previous passed options (example destination folder), **several** javascript files was generated, each corresponding to a TypeScript file.
