@@ -64,4 +64,4 @@ npx tsc --init
 
 # Transpiling all files of the project
 
-Teacher gave an example: when running `npx tsc` without specifying a path, the file tscofing was readed and using the previous passed options (example destination folder), **several** javascript files was generated, each corresponding to a TypeScript file.
+Teacher gave an example: when running `npx tsc` without specifying a path, the file tscofing was readed and used the previous passed options (example destination folder), **several** javascript files was generated, each corresponding to a TypeScript file.
