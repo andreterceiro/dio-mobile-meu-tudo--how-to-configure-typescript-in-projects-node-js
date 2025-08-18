@@ -74,3 +74,7 @@ Teacher used the package **tsx** (he installed it with npm), see the script star
 ![tsx-package](images/tsx-package.png)
 
 As you expect, teacher executed this package with the NPM script 'start:dev'.
+
+You can also watch like warching in Node.JS:
+
+![tsx watch](images/tsx-watch.png)
