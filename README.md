@@ -72,3 +72,5 @@ Teacher gave an example: when running `npx tsc` without specifying a path, the f
 Teacher used the package **tsx** (he installed it with npm), see the script start:dev in the next image:
 
 ![tsx-package](images/tsx-package.png)
+
+As you expect, teacher executed this package with the NPM script 'start:dev'.
