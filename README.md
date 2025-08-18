@@ -97,3 +97,8 @@ Teacher suggested this minimal configuration:
 You can see hints on VSCode putting the mouse over configurations:
 
 ![hints on mouse over](images/vscode-hints-on-mouse-over.png)
+
+
+# npmtrends.com and tsup
+
+![npm trends and tsup](images/npm-trends-and-tsup.png)
