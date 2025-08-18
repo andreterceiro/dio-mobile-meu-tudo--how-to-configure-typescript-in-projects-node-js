@@ -104,3 +104,8 @@ You can see hints on VSCode putting the mouse over configurations:
 ![npm trends and tsup](images/npm-trends-and-tsup.png)
 
 In the previous image you could see a graphic related to packages of the same are, transpilation process. Teacher suggested the tsup package to do the transpilation process. He said that the companies uses this package nd him more than the default package to do the transpilation process.
+
+
+# Links related to the classes
+
+[Reopsitory](https://github.com/digitalinnovationone/formacao-nodejs/tree/main/10-typescript)
