@@ -83,3 +83,10 @@ You can also watch like warching in Node.JS:
 # Documentation of tsconfig
 
 Teacher suggested us to access [this link](https://www.typescriptlang.org/tsconfig/) to see the options to configure tsconfig.
+
+
+# Minimal tsconfig
+
+Teacher suggested this minimal configuration:
+
+![tsconfig minimal](images/tsconfig-minimal.png)
