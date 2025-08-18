@@ -90,3 +90,10 @@ Teacher suggested us to access [this link](https://www.typescriptlang.org/tsconf
 Teacher suggested this minimal configuration:
 
 ![tsconfig minimal](images/tsconfig-minimal.png)
+
+
+# Seeing hits on VSCode
+
+You can see hints on VSCode putting the mouse over configurations:
+
+![hints on mouse over](images/vscode-hints-on-mouse-over.png)
