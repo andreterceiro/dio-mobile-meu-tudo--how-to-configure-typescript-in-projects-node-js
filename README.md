@@ -109,3 +109,5 @@ In the previous image you could see a graphic related to packages of the same ar
 # Links related to the classes
 
 [Reopsitory](https://github.com/digitalinnovationone/formacao-nodejs/tree/main/10-typescript)
+
+[TypeScript cheat sheets](https://www.typescriptlang.org/cheatsheets)
