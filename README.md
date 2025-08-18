@@ -78,3 +78,8 @@ As you expect, teacher executed this package with the NPM script 'start:dev'.
 You can also watch like warching in Node.JS:
 
 ![tsx watch](images/tsx-watch.png)
+
+
+# Documentation of tsconfig
+
+Teacher suggested us to access [this link](https://www.typescriptlang.org/tsconfig/) to see the options to configure tsconfig.
