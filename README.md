@@ -65,3 +65,10 @@ npx tsc --init
 # Transpiling all files of the project
 
 Teacher gave an example: when running `npx tsc` without specifying a path, the file tscofing was readed and used the previous passed options (example destination folder), **several** javascript files was generated, each corresponding to a TypeScript file.
+
+
+# Executing typescript files directly without specifying the transpile step
+
+Teacher used the package **tsx** (he installed it with npm), see the script start:dev in the next image:
+
+![tsx-package](images/tsx-package.png)
