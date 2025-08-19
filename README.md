@@ -112,6 +112,14 @@ In the previous image you could see a graphic related to packages of the same ar
 npm init -y typescript -D
 ```
 
+This:
+
+- will create a package.json;
+- will install TypeScript;
+- will create a tsconfig with basic configurations;
+- will create the file tslint.json that will create verification standards in the project (teacher deletes this file because do not uses it);
+- creates the file src/index.ts.
+
 
 # Links related to the classes
 
