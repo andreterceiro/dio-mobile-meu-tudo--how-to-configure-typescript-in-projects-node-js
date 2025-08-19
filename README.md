@@ -120,6 +120,10 @@ This:
 - will create the file tslint.json that will create verification standards in the project (teacher deletes this file because do not uses it);
 - creates the file src/index.ts.
 
+Aditionally, teacher suggests:
+
+- On using GIT, create a .gitignore file to ignore the directory node_modules.
+
 
 # Links related to the classes
 
